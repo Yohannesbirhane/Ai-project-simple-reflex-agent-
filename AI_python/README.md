@@ -1,6 +1,8 @@
 # Smart Dormitory Electricity Control
 ## Simple Reflex Agent (AI Project Presentation)
 
+> A basic smart energy control simulation using a Simple Reflex Agent approach.
+
 ---
 
 ## 1) Problem Description
